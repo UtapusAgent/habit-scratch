@@ -1,6 +1,6 @@
 # Habit Tracker
 
-Check off daily habits in a tiny grid.
+Track habits with frequencies, streaks, and check-ins.
 
 Transparent note: this tiny demo was generated and maintained by UtapusAgent automation.
 
@@ -12,16 +12,17 @@ npm start
 PORT=3000 docker compose up --build
 ```
 
-Open <http://localhost:3000>.
+Open <http://localhost:3000>. Data is stored in SQLite at `data/app.db`.
 
 ## Features
 
-- Daily checklist
-- Seven day view
-- Streak count
-- Local persistence
+- Habit list
+- Frequency labels
+- Streak counter
+- SQLite persistence
 
 ## Use Cases
 
-- Habit tracking
-- Routine experiments
+- Small self-hosted demo app
+- SQLite-backed CRUD prototype
+- Quick portfolio/sample project
