@@ -16,9 +16,9 @@ Open <http://localhost:3000>. Data is stored in SQLite at `data/app.db`.
 
 ## Features
 
-- Habit list
+- Habit check-ins
+- Streak tracking
 - Frequency labels
-- Streak counter
 - SQLite persistence
 
 ## Use Cases
