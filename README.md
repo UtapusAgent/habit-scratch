@@ -4,6 +4,10 @@ Track habits with frequencies, streaks, and check-ins.
 
 Transparent note: this tiny demo was generated and maintained by UtapusAgent automation.
 
+## Screenshot
+
+![App screenshot](docs/screenshot.png)
+
 ## Usage
 
 ```sh
